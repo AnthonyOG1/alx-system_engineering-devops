@@ -1,2 +1,5 @@
-Applications Documents
-Dropbox Movies Pictures Desktop Downloads Library Music public
+#!/bin/bash
+$ ./1-listit
+Applications Documents Drobox Movies Pictures Desktop Downloads Library Music Public $
+
+chmod u+x listit
