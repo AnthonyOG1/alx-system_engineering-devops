@@ -1,0 +1,6 @@
+#!/bin/bash
+anthony@ubuntu:/tmp$ pwd/tmp
+anthony@ubuntu:/tmp$ echo $HOME /home/anthony
+anthony@ubuntu:/tmp$ source ./2-bring_me_home
+anthony@ubuntu:~$ pwd /home/anthony
+anthony@ubuntu:~$
